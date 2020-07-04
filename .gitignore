@@ -1,0 +1,25 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/C#/.vs/BookReader/v16/Server/sqlite3
+/.vs/RaspberryPi.BookReader/v16
+/.vs
+*.suo
+/C#/BookReader/.vs/BookReader/v16/Server/sqlite3
+/WinUsb/Debug
+/WinUsb/x64
+/WinUsb/IT8951Demo/Debug
+/WinUsb/IT8951Demo/x64
+/WinUsb/IT8951Lib/Debug
+/WinUsb/IT8951Lib/x64
+.vs
+
+
+*.pdb
+*.user
+*.cache
+*.txt
+*.user
+*.CopyComplete
+*.exe
